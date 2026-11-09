@@ -487,7 +487,7 @@ Full references and the extended academic discussion are provided in the capston
 
 Academic note
 
-This repository supports the Sol Plaatje University capstone project presentation and report. It is intended for academic review, reproducibility discussion, and further experimentation. The repository should be updated with the real GitHub URL.
+This repository supports the Sol Plaatje University capstone project presentation and report. It is intended for academic review, reproducibility discussion, and further experimentation.
 
 
 
